@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
-  title: Fantasy11 Project API
-  description: API documentation for the Fantasy11 project.
+  title: MLB Project API
+  description: API documentation for the MLB project.
   version: v1.0.0
 servers:
 - url: http://localhost:8080
