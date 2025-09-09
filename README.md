@@ -4,7 +4,10 @@
 
 ## 🎥 시연 영상
 - 유튜브 링크 <a href="https://youtu.be/CidsWmqrhKk" target="_blank">https://youtu.be/CidsWmqrhKk</a> 
-<video src="docs/fantasy11.mp4" controls width="720"></video>
+
+https://github.com/user-attachments/assets/5edb50b0-4104-4fb2-8cee-9cc109755105
+
+
 
 ---
 
