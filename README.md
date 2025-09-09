@@ -7,12 +7,7 @@
 
 https://github.com/user-attachments/assets/5edb50b0-4104-4fb2-8cee-9cc109755105
 
-
-
 ---
-
-## 📸 스크린샷 모음
-
 ![스크린샷 1](docs/1.png)
 ![스크린샷 2](docs/2.png)
 ![스크린샷 3](docs/3.png)
